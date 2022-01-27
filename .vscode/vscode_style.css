@@ -1,0 +1,13 @@
+body{
+    pointer-events: auto !important;
+    background-size: 100% !important;
+    opacity: 0.90 !important;
+    background-position: 0 0 !important;
+    /**change your image url here*/
+    background-image: url('../themes/images/one-piece-monkey-d-luffy-hd-wallpaper-preview.jpg');
+    content: '';
+    position: absolute;;
+    z-index: 999;
+    width: 100%;
+    background-repeat: no-repeat;
+  }
